@@ -8,14 +8,14 @@ Zadanie domowe
     Wykorzystaj tylko znaczniki HTML do wykonania zadania domowego #1, bez stylów CSS.
     Skonfiguruj GitHub Pages i dodaj link do aktywnej strony do nagłówka repozytorium GitHub.
 
-Kryteria akceptacji projektu przez mentora
-Projekt
+Kryteria akceptacji projektu przez mentora Projekt
 
 «A1» Główny plik HTML ma nazwę index.html.
 
 «A2» W katalogu głównym projektu znajduje się folder images z obrazami.
 
-«A3» W nazwach plików nie ma wielkich liter, spacji i transliteracji, a jedynie litery i słowa w języku angielskim.
+«A3» W nazwach plików nie ma wielkich liter, spacji i transliteracji, a jedynie litery i słowa w
+języku angielskim.
 
 «A4» Kod źródłowy jest sformatowany za pomocą Prettier.
 
@@ -23,8 +23,7 @@ Projekt
 
 «A6» Wszystkie zdjęcia są optymalizowane przy użyciu squoosh.
 
-«A7» Kod jest napisany zgodnie z tutorialem.
-Znaczniki HTML
+«A7» Kod jest napisany zgodnie z tutorialem. Znaczniki HTML
 
 «B1» Znaczniki HTML strony Studio są wpisywane w pliku index.html.
 
@@ -34,7 +33,8 @@ Znaczniki HTML
 
 «B4» HTML jest weryfikowany przez walidator bez błędów.
 
-«B5» Znaczniki HTML zawierają tagi do podkreślania głównej struktury strony: <header>, <main> i <footer>.
+«B5» Znaczniki HTML zawierają tagi do podkreślania głównej struktury strony: <header>, <main> i
+<footer>.
 
 «B6» Logo w <header> i stopce to link z tekstem, a nie obraz.
 
@@ -50,7 +50,8 @@ Znaczniki HTML
 
 «B12» Tagi <img> mają atrybuty wymiarów, co najmniej width i height.
 
-«B13» Tagi <img> mają atrybut alt, który jest wypełniony krótkim opisem tego, co jest pokazane na obrazku.
+«B13» Tagi <img> mają atrybut alt, który jest wypełniony krótkim opisem tego, co jest pokazane na
+obrazku.
 
 «B14» Obrazy wyeksportowane z układu w formacie jpg.
 
